@@ -6,14 +6,18 @@
 
 <h2>📗 Funcionalidades</h2>
 
-<p> Esse projeto tem como finalidade o cadastro de Clientes, Produtos e Vendas no Banco de Dados </p>
+<p> Este desafio proposto pelo Professor Ricardo, tem como finalidade o cadastro de Clientes, Produtos e Vendas no Banco de Dados.</p>
 
 <h2>🛠 Tecnologias Utilizadas</h2>
 
-<p> Windows Form
-C#/.NET
-SQL Server</p>
-  
+- [C#]
+- [Windows Form]
+- [.Net]
+- [SQL Server]
+
+
+
+
   
   🛒🗃
 
