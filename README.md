@@ -1,4 +1,4 @@
-<h1 align="center">🗄️  🗃Desafio Windows Forms / SQL</h1>
+<h1 align="center">🗃 Desafio Windows Forms / SQL</h1>
 
 <h2>📝 Descrição</h2>
 
@@ -7,6 +7,12 @@
 <h2>📗 Funcionalidades</h2>
 
 <p> Esse projeto tem como finalidade o cadastro de Clientes, Produtos e Vendas no Banco de Dados </p>
+
+<h2>🛠 Tecnologias Utilizadas</h2>
+
+<p> Windows Form
+C#/.NET
+SQL Server</p>
   
   
   🛒🗃
