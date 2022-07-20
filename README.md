@@ -15,13 +15,11 @@
 - .Net
 - SQL Server
 
-<h2>🚀 Executar o projeto</h2>
+<h2>🎯 Status</h2>
 
-<p> Para executar o repositório é necessário clonar o mesmo e dar o seguinte comando no VS para iniciar o projeto:</p>
+<p>🚧 Em construção...</p>
 
 
-  
-  🛒🗃
-
+https://user-images.githubusercontent.com/102877425/179906765-2c89e160-b0ef-4e71-a751-f313fcf59e64.mp4
 
 
