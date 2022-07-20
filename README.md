@@ -10,12 +10,14 @@
 
 <h2>🛠 Tecnologias Utilizadas</h2>
 
-- [C#]
-- [Windows Form]
-- [.Net]
-- [SQL Server]
+- C#
+- Windows Form
+- .Net
+- SQL Server
 
+<h2>🚀 Executar o projeto</h2>
 
+<p> Para executar o repositório é necessário clonar o mesmo e dar o seguinte comando no VS para iniciar o projeto:</p>
 
 
   
